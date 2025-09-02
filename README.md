@@ -1,97 +1,81 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Monaco&weight=600&size=24&duration=3000&pause=1000&color=2196F3&width=600&lines=Salut+!+👋+Je+suis+Alex;Développeur+passionné+par+l'automatisation;Expert+en+environnements+multi-plateformes)
+# Alexandre Lababsa
 
-<div align="center">
-  
-### 🚀 Développeur Full-Stack & DevOps Enthusiast
+**Software Craftsman Padawan**
 
-*Passionné par l'automatisation et l'optimisation des workflows de développement*
+> *“I am and will remain a craftsman all my life.”* - Charles Aznavour
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alex)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/alex)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alex@example.com)
+Developer passionate about technical excellence. As I discover Software Craftsmanship, I learn the fundamentals of quality code every day through practice and experimentation.  
 
-</div>
-
-## 🛠 Stack Technique
-
-<div align="center">
-
-### Languages & Frameworks
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### Outils & Technologies
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-### Plateformes
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![WSL2](https://img.shields.io/badge/WSL2-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
-
-</div>
-
-## 🚀 Projets
-
-### [📁 Dotfiles](./dotfiles)
-Configuration automatisée d'environnement de développement cross-platform avec installation intelligente et gestion des dépendances par OS.
-
-**Caractéristiques:**
-- Installation en une commande (`./install.sh`)
-- Support macOS, Linux, et WSL2
-- Configuration Zsh + Oh My Zsh + Starship
-- Gestion automatique des packages (Homebrew, APT)
-- Backup automatique des configurations existantes
-
-## 📈 GitHub Stats
-
-<div align="center">
-  
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-lababsa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=a-lababsa&theme=tokyonight&hide_border=true&background=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a-lababsa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
-
-</div>
-
-## 🌟 Applications & Outils Favorites
-
-<div align="center">
-
-### 💻 Développement
-![Ghostty](https://img.shields.io/badge/Ghostty-000000?style=for-the-badge&logo=terminal&logoColor=white)
-![Zed](https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=zedindustries&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Hoppscotch](https://img.shields.io/badge/Hoppscotch-31C48D?style=for-the-badge&logo=hoppscotch&logoColor=white)
-
-### 🚀 Productivité
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Proton](https://img.shields.io/badge/Proton-6D4AFF?style=for-the-badge&logo=proton&logoColor=white)
-
-</div>
+My goal: **to gradually develop my skills and craftsmanship mindset**.
 
 ---
 
-<div align="center">
+## Philosophy
 
-## 💬 Let's Connect!
+I deeply believe that **software development is a craft**. Like any other craft. As an apprentice craftsman, I focus on **the fundamentals above all else**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alex)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/alex)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alex@example.com)
+### Learning
+    - SOLID principles and Clean Code
+    - Practicing refactoring to improve existing code
+    - Exploring architectural patterns (DDD, Hexagonal Architecture)
+    - Discovering advanced testing practices (TDD, Testing Pyramid)
 
-### 💭 Quote du jour
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### Practice
+    - Regular exercises on Codewars to develop my logic
+    - Code reviews to learn from experienced developers
+    - Experimentation on personal projects to understand concepts
+    - Gradual improvement of my code's readability
 
-*"Code with passion, automate everything"* ⚡
+### Share
+    - Participate in meetups to discover practices (e.g., Coding Dojo)
+    - Be mentored by experienced craftsmen
+    - Share my discoveries as an apprentice with other beginners
 
-### 🎯 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=a-lababsa&color=blueviolet&style=for-the-badge)
+<br/>
 
-</div>
+<details>
+  <summary>Objectives</summary>
+
+    - Lead craft workshops within my team
+    - Become an experienced craftsman capable of mentoring others
+    - Actively contribute to the craft community
+</details>
+
+<br/>
+
+<details>
+  <summary>Beyond code</summary>
+  <br/>
+
+**Volunteering & Community**
+
+    - Mental health first aid (MHFA)
+    - Participation in local developer meetups
+
+**Values**
+
+    - Mutual learning and kindness  
+    - Technical excellence at the service of people  
+    - Sharing knowledge and experiences  
+
+</details>
+
+<br/>
+
+## Activity
+
+<a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=a-lababsa&show_icons=true&theme=dark&count_private=true&hide_title=true&hide_rank=true" />
+</a>
+<a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-lababsa&theme=dark&layout=compact&langs_count=8&card_width=320&hide_title=true" />
+</a>
+
+## Repo
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a-lababsa&repo=dotfiles&theme=dark&show_owner=true)](https://github.com/a-lababsa/dotfiles)
+
+
+## Kata
+
+![Codewars](https://www.codewars.com/users/a-lababsa/badges/large)
